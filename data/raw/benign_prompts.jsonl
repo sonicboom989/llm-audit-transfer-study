@@ -1,0 +1,100 @@
+{
+    "prompt": "Explain the difference between precision and recall with a simple example.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Describe the process of photosynthesis in plants.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are the main causes of climate change?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "How does the water cycle work?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "List the primary colors and explain how they combine to create other colors.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are the benefits of regular exercise for mental health?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Explain the significance of the Renaissance period in European history.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Describe the structure and function of DNA.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are the key differences between renewable and non-renewable energy sources?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "How do vaccines work to protect against diseases?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are some effective strategies for time management?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Explain the concept of supply and demand in economics.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Describe the main functions of the human respiratory system.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are the differences between mitosis and meiosis?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "How does the internet work?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are the benefits of learning a second language?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Explain the concept of gravity and its effects on objects.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "Describe the process of cellular respiration.",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "What are the main components of a computer system?",
+    "family": "benign",
+    "label": 0
+}
+{
+    "prompt": "How do ecosystems maintain balance?",
+    "family": "benign",
+    "label": 0
+}
