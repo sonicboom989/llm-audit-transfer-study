@@ -60,7 +60,7 @@ def main():
 
                     #Generate output
                     inputs = tokenizer(prompt, return_tensors="pt")
-                    output_ids = model.generate(**inputs, max_new_tokens=100, do_sample=False)
+                    output_ids = model.generate(**inputs, max_new_tokens=500, do_sample=False, num_beams=5, early_stopping=True)
                     output_text = tokenizer.decode(output_ids[0], skip_special_tokens=True)
                     
                     #Takes output and writes to outputs.jsonl
@@ -71,7 +71,7 @@ def main():
                         "model_name": MODEL_NAME,
                         "output_text": output_text
                     }
-                    output_file = "data/processed/outputs.jsonl"
+                    
                     output_f.write(json.dumps(output_data, ensure_ascii=False) + "\n")
                     
 
