@@ -1,4 +1,4 @@
----
+
 # REPORT: Transfer Limits of Lightweight Output-Only Auditors
 
 ## 1. Initial Objective and Framing
